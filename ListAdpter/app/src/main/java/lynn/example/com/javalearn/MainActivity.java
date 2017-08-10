@@ -34,7 +34,5 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(), "Your choice is " + list[position], Toast.LENGTH_SHORT).show();
             }
         });
-
-
     }
 }
